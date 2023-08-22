@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car racing game with C#", "Car racing game with C#\Car racing game with C#.csproj", "{ED63B23E-B9B4-4AFA-96C3-C485811D11EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED63B23E-B9B4-4AFA-96C3-C485811D11EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED63B23E-B9B4-4AFA-96C3-C485811D11EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED63B23E-B9B4-4AFA-96C3-C485811D11EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED63B23E-B9B4-4AFA-96C3-C485811D11EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5F6DB8-F6EF-47C2-9CC4-D142C37D33F2}
+	EndGlobalSection
+EndGlobal
